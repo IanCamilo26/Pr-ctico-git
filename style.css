@@ -1,3 +1,8 @@
 .titulo {
+    background-color: rgb(220, 183, 254);
     color: blueviolet;
+}
+.imagen {
+    height: 200%;
+    width: 200%;
 }
